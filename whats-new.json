@@ -1,0 +1,32 @@
+{
+  "release": "2026-11-04",
+  "title": "Easier updates, clearer calls and meetings",
+  "items": [
+    {
+      "icon": "bell",
+      "text": "A short popup now tells you when a new version of MatterChat is ready, with Update now or Remind me later."
+    },
+    {
+      "icon": "video",
+      "text": "A call in progress now sits at the top of the conversation, next to the call buttons."
+    },
+    {
+      "icon": "message",
+      "text": "Meetings show a live transcript, captions keep to the languages you choose, and notes come from what was said."
+    },
+    {
+      "icon": "pencil",
+      "text": "Draw and point on a shared screen, and make it full screen in the desktop app."
+    },
+    {
+      "icon": "check",
+      "text": "The desktop app uses your computer's own close, minimise and full screen buttons."
+    }
+  ],
+  "critical": false,
+  "builds": {
+    "ios": null,
+    "android": null,
+    "desktop": null
+  }
+}
