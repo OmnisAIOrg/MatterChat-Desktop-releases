@@ -25,8 +25,8 @@
   ],
   "critical": false,
   "builds": {
-    "ios": null,
-    "android": null,
-    "desktop": null
+    "ios": 97,
+    "android": 130,
+    "desktop": "1.12.16"
   }
 }
