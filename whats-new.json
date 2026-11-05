@@ -1,32 +1,28 @@
 {
-  "release": "2026-11-04",
-  "title": "Easier updates, clearer calls and meetings",
+  "release": "2026-11-05",
+  "title": "A fresh look for meetings and Home",
   "items": [
     {
-      "icon": "bell",
-      "text": "A short popup now tells you when a new version of MatterChat is ready, with Update now or Remind me later."
+      "icon": "video",
+      "text": "MatterMeet and the Home page have a fresh look, with new backgrounds, your own picture behind you and fun face effects."
     },
     {
-      "icon": "video",
-      "text": "A call in progress now sits at the top of the conversation, next to the call buttons."
+      "icon": "users",
+      "text": "Profile pictures now show on meeting tiles, in People and across MatterChat."
     },
     {
       "icon": "message",
-      "text": "Meetings show a live transcript, captions keep to the languages you choose, and notes come from what was said."
-    },
-    {
-      "icon": "pencil",
-      "text": "Draw and point on a shared screen, and make it full screen in the desktop app."
+      "text": "Meeting notes can be emailed to the people from your firm who came, and captions can read in your language."
     },
     {
       "icon": "check",
-      "text": "The desktop app uses your computer's own close, minimise and full screen buttons."
+      "text": "Threads read like Slack, menus and colours are easier to use in every look, and lots of small improvements."
     }
   ],
   "critical": false,
   "builds": {
-    "ios": 97,
-    "android": 130,
-    "desktop": "1.12.16"
+    "ios": 100,
+    "android": 135,
+    "desktop": "1.12.22"
   }
 }
