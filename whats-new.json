@@ -1,28 +1,32 @@
 {
-  "release": "2026-11-05",
-  "title": "A fresh look for meetings and Home",
+  "release": "2026-11-06",
+  "title": "Livelier meetings, every emoji looking its best",
   "items": [
     {
-      "icon": "video",
-      "text": "MatterMeet and the Home page have a fresh look, with new backgrounds, your own picture behind you and fun face effects."
+      "icon": "sparkles",
+      "text": "Every meeting reaction now animates, and each of the 28 plays across the screen in its own way."
     },
     {
-      "icon": "users",
-      "text": "Profile pictures now show on meeting tiles, in People and across MatterChat."
+      "icon": "video",
+      "text": "Thirty-one backgrounds, including twelve that move and your own video, plus fifteen face effects."
     },
     {
       "icon": "message",
-      "text": "Meeting notes can be emailed to the people from your firm who came, and captions can read in your language."
+      "text": "React in a meeting with any emoji at all, and send stickers or GIFs from new one-tap categories."
     },
     {
-      "icon": "check",
-      "text": "Threads read like Slack, menus and colours are easier to use in every look, and lots of small improvements."
+      "icon": "palette",
+      "text": "Emoji look crisp and modern on every computer, and a message of only emoji shows big."
+    },
+    {
+      "icon": "phone",
+      "text": "The iPhone and Android apps open on a new loading screen, the same as the desktop app."
     }
   ],
   "critical": false,
   "builds": {
     "ios": 100,
-    "android": 135,
+    "android": 137,
     "desktop": "1.12.22"
   }
 }
