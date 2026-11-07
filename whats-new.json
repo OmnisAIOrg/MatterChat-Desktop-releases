@@ -1,32 +1,32 @@
 {
-  "release": "2026-11-06",
-  "title": "Livelier meetings, every emoji looking its best",
+  "release": "2026-11-07",
+  "title": "Video clips, and never miss the notes",
   "items": [
     {
-      "icon": "sparkles",
-      "text": "Every meeting reaction now animates, and each of the 28 plays across the screen in its own way."
+      "icon": "file",
+      "text": "Missed a meeting? Its notes are one click from MatterMeet's Recent list, in the conversation and in your email, ready to copy or share."
     },
     {
       "icon": "video",
-      "text": "Thirty-one backgrounds, including twelve that move and your own video, plus fifteen face effects."
+      "text": "On the web and desktop app, record a video clip of up to five minutes in the message box and send it like any file."
     },
     {
-      "icon": "message",
-      "text": "React in a meeting with any emoji at all, and send stickers or GIFs from new one-tap categories."
+      "icon": "calendar",
+      "text": "Every meeting of a repeating series stays on your Recent list, with who was invited and its notes."
     },
     {
-      "icon": "palette",
-      "text": "Emoji look crisp and modern on every computer, and a message of only emoji shows big."
+      "icon": "sparkles",
+      "text": "Touch up and Low light give you a softer, brighter picture, and six colour tones set the mood."
     },
     {
-      "icon": "phone",
-      "text": "The iPhone and Android apps open on a new loading screen, the same as the desktop app."
+      "icon": "zap",
+      "text": "Lots of small fixes: the Office shows only people still at your firm, menus fit small windows, and phone screens read better."
     }
   ],
   "critical": false,
   "builds": {
-    "ios": 103,
-    "android": 137,
-    "desktop": "1.12.22"
+    "ios": 105,
+    "android": 139,
+    "desktop": "1.12.23"
   }
 }
