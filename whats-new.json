@@ -1,32 +1,28 @@
 {
-  "release": "2026-11-07",
-  "title": "Video clips, and never miss the notes",
+  "release": "2026-11-07b",
+  "title": "File names you can tell apart, small screens that fit",
   "items": [
     {
       "icon": "file",
-      "text": "Missed a meeting? Its notes are one click from MatterMeet's Recent list, in the conversation and in your email, ready to copy or share."
+      "text": "Long file names keep the part that tells them apart, like Vol 1 and Vol 2, wherever files are listed."
     },
     {
       "icon": "video",
-      "text": "On the web and desktop app, record a video clip of up to five minutes in the message box and send it like any file."
-    },
-    {
-      "icon": "calendar",
-      "text": "Every meeting of a repeating series stays on your Recent list, with who was invited and its notes."
-    },
-    {
-      "icon": "sparkles",
-      "text": "Touch up and Low light give you a softer, brighter picture, and six colour tones set the mood."
+      "text": "A video file shows a film icon, so a clip reads as a video before you open it."
     },
     {
       "icon": "zap",
-      "text": "Lots of small fixes: the Office shows only people still at your firm, menus fit small windows, and phone screens read better."
+      "text": "Pop-ups, file cards and tabs fit small windows and stay in view as you move with the keyboard."
+    },
+    {
+      "icon": "phone",
+      "text": "On iPhone and Android, voice control reaches more buttons by the words they show."
     }
   ],
   "critical": false,
   "builds": {
-    "ios": 105,
-    "android": 139,
+    "ios": 106,
+    "android": 140,
     "desktop": "1.12.23"
   }
 }
